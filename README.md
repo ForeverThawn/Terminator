@@ -1,6 +1,6 @@
 # Terminator
 
-It's a temporary project, which means I would probably not maintain the code from time to time.
+It's a temporary C++ project remastered from C (using struct instead of class), which means I would probably not maintain the code from time to time.
 
 Just use it for basic usage. (when some program is stuck down, simply get a reset or termination)
 
