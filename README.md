@@ -6,7 +6,7 @@ Just use it for basic usage. (when some program is stuck down, simply get a rese
 
 Copyright (C) Forever 2020-2023
 
-Usage
+# Usage
 
   -e / --execute       Execute a kernel command below
       "off"      --  Shutdown the computer immediately
