@@ -1,4 +1,4 @@
-# Terminator
+# Terminator (Deprecated)
 
 It's a temporary C++ project remastered from C (using struct instead of class), which means I would probably not maintain the code from time to time.
 
